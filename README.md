@@ -5,6 +5,8 @@
 
 ![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=julyano&show_icons=true&theme=dracula)
 
+Adoro música, tecnologia, vida e Deus! Carrego na "mochila" da minha trajetória o ímpeto de ajudar pessoas através de minhas habilidades.
+
 <hr>
 
 ## Tecnologias que mais uso
@@ -58,5 +60,3 @@
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div><br/>
-
-Adoro música, tecnologia, vida e Deus! Carrego na "mochila" da minha trajetória o ímpeto de ajudar pessoas através de minhas habilidades.
